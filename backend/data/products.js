@@ -72,12 +72,39 @@ const products = [
       countInStock: 19,
     },
     {
+      name: "WROGN",
+      imageUrl:
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2478263/2020/3/10/bfa8931b-c4b4-4788-a8c2-5c5abc2dcda51583836541684-WROGN-Men-Black--Grey-Slim-Fit-Checked-Casual-Shirt-21215838-1.jpg",
+      description:
+      "Black and grey checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hemManufacturer Info: DJS Clothing Country of Origin: India",
+      price: 1209,
+      countInStock: 10,
+    },
+    {
       name: "RAMRAJ COTTON",
       imageUrl:
         "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/29/b473938c-6486-497b-aa39-7ff6d5284a9e1609232599608-1.jpg",
       description:
         "Peach-Coloured solid formal shirt, has a spread collar, short sleeves, button placket, straight hem, and 1 patch pocket",
       price: 749,
+      countInStock: 10,
+    },
+    {
+      name: "Campus Sutra",
+      imageUrl:
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/10456354/2019/8/22/d56e75f6-f1a7-4fdd-b430-51befb36f88d1566454760527-Campus-Sutra-Men-Colourblocked-Casual-Spread-Shirt-290156645-1.jpg",
+      description:
+        "Navy blue and grey colourblocked casual shirt, has a spread collar, long sleeves, button placket, and curved hem",
+      price: 599,
+      countInStock: 40,
+    },
+    {
+      name: "HERE&NOW",
+      imageUrl:
+        "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2414313/2018/3/13/11520926368526-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-1.jpg",
+      description:
+        "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hemManufacturer Info: Sixth Sense",
+      price: 549,
       countInStock: 10,
     },
   ];
